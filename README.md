@@ -1,2 +1,3 @@
-# Automation_projects
-This repository contains projects that combines data analisys with automation techniques
+# Automation Projects
+## This repository contains projects that combines data analisys with automation techniques
+
