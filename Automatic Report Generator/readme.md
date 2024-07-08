@@ -1,6 +1,7 @@
 # Automatic Report Generator
 
 The objective of this code is to generate an report that contains the general information of several stores of a store chain. Proceed to create a ranking of all the stores.
+This project covers the topics of email automation using python, data analisys and manipulation using pandas, creating files using pathlib.
 
 The following steps will be covered:
 - Importing the DataBase
